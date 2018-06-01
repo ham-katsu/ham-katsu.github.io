@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ham-katsu.github.io" resolutions="1x" timestamp="1527512057720">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ham-katsu.github.io" resolutions="1x" timestamp="1527866436984">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-____.css" crc="403446471" ref="index"/>
-    <file name="index.css" crc="3996546603" ref="index"/>
+    <file name="master_a-____.css" crc="4044861457" ref="index"/>
+    <file name="index.css" crc="243768473" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,9 +13,9 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="ham-icon-crop-u104.png" crc="282588374" seo="true" ref="index">
+    <file name="ham-icon-crop-u104.png" crc="397128849" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3976280683" seo="true" mt="1527511040373" redirect="true"/>
+  <file name="index.html" crc="4133570415" seo="true" mt="1527866418381" redirect="true"/>
 </manifest>
