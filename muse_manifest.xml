@@ -1,12 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ham-katsu.github.io" resolutions="1x" timestamp="1528723550046">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ham-katsu.github.io" resolutions="1x" timestamp="1528729307964">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-____.css" crc="3893310561" ref="index"/>
     <file name="index.css" crc="3977727830" ref="index"/>
     <file name="nomq_preview_master_a-____.css" crc="3824530138" ref="index"/>
-    <file name="about.css" crc="4029771025" ref="about"/>
+    <file name="about.css" crc="212898150" ref="about"/>
     <file name="nomq_index.css" crc="435794451" ref="index"/>
-    <file name="works.css" crc="4029771025" ref="works"/>
+    <file name="works.css" crc="53558247" ref="works"/>
+    <file name="master_b-____.css" crc="220510461" ref="about:works"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:works:about"/>
@@ -24,7 +25,7 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="148281944" seo="true" mt="1528723454080" redirect="true"/>
-  <file name="works.html" crc="474484893" seo="true" mt="1528723511508" redirect="false"/>
-  <file name="about.html" crc="3779363739" seo="true" mt="1528723519267" redirect="false"/>
+  <file name="index.html" crc="3845087791" seo="true" mt="1528729117516" redirect="true"/>
+  <file name="works.html" crc="416218947" seo="true" mt="1528729255754" redirect="true"/>
+  <file name="about.html" crc="443493365" seo="true" mt="1528729077452" redirect="true"/>
 </manifest>
