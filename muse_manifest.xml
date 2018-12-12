@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ham-katsu.github.io" resolutions="1x" timestamp="1544599970155">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ham-katsu.github.io" resolutions="1x" timestamp="1544602853922">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-____.css" crc="3921629549" ref="index"/>
@@ -6,7 +6,7 @@
     <file name="nomq_preview_master_a-____.css" crc="3824530138" ref="index"/>
     <file name="about.css" crc="212898150" ref="about"/>
     <file name="nomq_index.css" crc="435794451" ref="index"/>
-    <file name="works.css" crc="4188048132" ref="works"/>
+    <file name="works.css" crc="45117526" ref="works"/>
     <file name="master_b-____.css" crc="324921336" ref="about:works"/>
   </folder>
   <folder name="scripts">
@@ -26,6 +26,6 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
   <file name="index.html" crc="3953866733" seo="true" mt="1544599966011" redirect="true"/>
-  <file name="works.html" crc="3840066775" seo="true" mt="1544599513788" redirect="true"/>
+  <file name="works.html" crc="104185244" seo="true" mt="1544602772994" redirect="true"/>
   <file name="about.html" crc="443493365" seo="true" mt="1528729077452" redirect="true"/>
 </manifest>
